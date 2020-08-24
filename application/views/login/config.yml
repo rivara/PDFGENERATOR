@@ -1,0 +1,34 @@
+# actions
+# common settings for all actions in this controller
+common:
+  title:
+  css:
+    site:
+     - animate.min
+     - app
+     - app.min.1
+     - app.min.2
+     - material-design-iconic-font
+
+  js:
+    site:
+        - bootstrap
+        - functions
+        - jquery.min.map
+        - waves
+# configs for each action
+index:
+  title: Página
+
+  metas:
+    name:
+      keywords:
+      description:
+
+  css:
+    site:
+
+
+  js:
+    site:
+

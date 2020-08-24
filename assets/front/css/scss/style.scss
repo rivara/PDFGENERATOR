@@ -1,0 +1,27 @@
+@import "partials/normalize";
+@import "partials/variables";
+@import "partials/mixins";
+@import "partials/utilities";
+@import "partials/color";
+@import "partials/helpers";
+@import "partials/fonts";
+@import "breakpoints/base";
+@import "breakpoints/bigger";
+@media only screen and (max-width: 1024px) {
+	@import "breakpoints/1024";
+}
+@media only screen and (max-width: 980px) {
+	@import "breakpoints/980";
+}
+@media only screen and (max-width: 768px) {
+	@import "breakpoints/768";
+}
+@media only screen and (max-width: 620px) {
+	@import "breakpoints/620";
+}
+@media only screen and (max-width: 480px) {
+	@import "breakpoints/480";
+}
+@media only screen and (max-width: 330px) {
+	@import "breakpoints/330";
+}

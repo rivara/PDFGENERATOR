@@ -1,0 +1,26 @@
+# actions
+# common settings for all actions in this controller
+common:
+  title:
+  css:
+    site:
+
+  js:
+    site:
+
+# configs for each action
+index:
+  title: Página
+
+  metas:
+    name:
+      keywords:
+      description:
+
+  css:
+    site:
+
+
+  js:
+    site:
+
